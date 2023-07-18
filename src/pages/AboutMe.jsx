@@ -1,9 +1,21 @@
 import React from "react";
+import imageofme from "../assets/imageofme.png";
 
 const AboutMe = () => {
   return (
     <section>
-      <div>About Me Test</div>
+      <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+        <img className="image-of-me"
+          src={imageofme}
+          alt="image of me"
+        ></img>
+      <h1>
+          Hello!
+          <br className="hidden lg:inline-block" />
+          My name is Rachel and I XYZ.
+        </h1>
+        <p>More info here</p>
+      </div>
     </section>
   );
 };

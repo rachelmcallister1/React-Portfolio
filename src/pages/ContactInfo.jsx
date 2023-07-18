@@ -1,9 +1,9 @@
 import React from "react";
-
+//look at Kar's lol 
 const ContactInfo = () => {
     return (
       <section>
-        <div>Contact Info Test</div>
+        <div></div>
       </section>
     );
   };
