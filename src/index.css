@@ -39,6 +39,7 @@ code {
   left: 0;
   bottom: 0;
   width: 5%;
+  background-color: azure;
 }
 
 .footer-content-linkedin {
@@ -48,6 +49,7 @@ code {
   right: 1370px;
   bottom: 0;
   width: 5%;
+  background-color: azure;
 }
 
 .footer-content-stackoverflow {
@@ -57,5 +59,6 @@ code {
   right: 1300px;
   bottom: 0;
   width: 5%;
+  background-color: azure;
 }
 
