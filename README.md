@@ -10,6 +10,9 @@ To create a react portfolio showcasing various apps created.
 ## Link to Deployed App
 https://rachelsreactportfolio-d91ccf437d0e.herokuapp.com/#
 
+## Link to Heroku
+https://github.com/rachelmcallister1/React-Portfolio
+
 ## Sources
 Completed app with Halima S. 
 
