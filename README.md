@@ -1,10 +1,8 @@
-
+### Portfolio
 
 ## Screenshot
 ![A screenshot of the Deployed Application](../assets/contactmeimage.png)
 
 ## Link to Deployed App
+https://rachelsreactportfolio-d91ccf437d0e.herokuapp.com/#
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
