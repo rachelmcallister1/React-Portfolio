@@ -5,6 +5,7 @@ import Portfolio from "./pages/Portfolio";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
+
 const App = () => {
   const [currentPage, setCurrentPage] = useState("About");
   function renderPage() {

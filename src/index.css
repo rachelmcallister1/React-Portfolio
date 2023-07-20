@@ -1,3 +1,5 @@
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -38,3 +40,22 @@ code {
   bottom: 0;
   width: 5%;
 }
+
+.footer-content-linkedin {
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  right: 1370px;
+  bottom: 0;
+  width: 5%;
+}
+
+.footer-content-stackoverflow {
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  right: 1300px;
+  bottom: 0;
+  width: 5%;
+}
+
